@@ -1,4 +1,4 @@
-# Filmpire
+# Filmpire, Netflix clone built using Reactjs, MaterialUi, TMDB Api
 
 # ✅ Follow the steps to run this app on your system</br>
 👉 Clone the repo or download it</br>
